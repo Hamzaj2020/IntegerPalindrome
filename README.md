@@ -16,5 +16,5 @@ Null value is a palindrome
 - The program accounts for single digits
 - Program does not run longer than needed
 - Program can be changed to work with String inputs if needed
-- Improvements
+## Improvements
 - Could have accounted for handling  null values.
