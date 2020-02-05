@@ -8,10 +8,9 @@ JUnit 5.6.0 https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-a
 
 ## Assumptions
 Null value is a palindrome
-How to Run
-## 1. Open the project in Intellij
-## 2. Navigate to the Main.java file in the project explorer
-## 3. Run the main method
+## How to Run
+1. Open the project in Intellij
+2. Navigate to the Main.java file in the project explorer 3. Run the main method
 ## Highlights
 The program works for even and odd length numbers
 The program accounts for single digits
