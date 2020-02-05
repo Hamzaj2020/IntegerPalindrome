@@ -12,9 +12,9 @@ Null value is a palindrome
 1. Open the project in Intellij
 2. Navigate to the Main.java file in the project explorer 3. Run the main method
 ## Highlights
-The program works for even and odd length numbers
-The program accounts for single digits
-Program does not run longer than needed
-Program can be changed to work with String inputs if needed
-Improvements
-Could have accounted for handling  null values.
+- The program works for even and odd length numbers
+- The program accounts for single digits
+- Program does not run longer than needed
+- Program can be changed to work with String inputs if needed
+- Improvements
+- Could have accounted for handling  null values.
